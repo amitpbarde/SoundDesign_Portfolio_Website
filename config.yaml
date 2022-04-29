@@ -124,7 +124,7 @@ params:
         links:
           - icon: fab fa-vimeo-v
             url: https://vimeo.com/630391415
-          - icon: fab fa-globe
+          - icon: fas fa-globe
             url: https://www.ars.nz/lightsense/
 
       - title: Just Bol Do | Sound Design
